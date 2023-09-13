@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: component-sample
     app.kubernetes.io/part-of: application-sample
-  name: component-samplewhwm
+  name: component-samplefcha
 spec:
   port:
     targetPort: 8081
